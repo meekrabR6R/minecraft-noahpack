@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/forgee.iml" filepath="$PROJECT_DIR$/forgee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icecream/icecream.iml" filepath="$PROJECT_DIR$/icecream/icecream.iml" />
+    </modules>
+  </component>
+</project>
+
