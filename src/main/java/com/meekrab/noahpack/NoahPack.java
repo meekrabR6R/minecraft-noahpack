@@ -16,7 +16,7 @@ public class NoahPack {
     public static final String VERSION = "1.0";
 
     //Items
-    public static Item iceCream;
+    public static Item iceCreamItem;
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
@@ -26,10 +26,10 @@ public class NoahPack {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent preInitEvent) {
-        iceCream = new IceCreamItem();
+        iceCreamItem = new IceCreamItem();
         // The second parameter is an unique registry identifier (not the displayed name)
         // Please don't use item1.getUnlocalizedName(), or you will make Lex sad
-        GameRegistry.registerItem(iceCream, "iceCream");
+        GameRegistry.registerItem(iceCreamItem, "iceCreamItem");
     }
 
 }

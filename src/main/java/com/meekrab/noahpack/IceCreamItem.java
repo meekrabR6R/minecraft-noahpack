@@ -11,6 +11,7 @@ public class IceCreamItem extends Item {
     public IceCreamItem() {
         setMaxStackSize(64);
         setCreativeTab(CreativeTabs.tabMisc);
-        setUnlocalizedName("IceCreamItem");
+        setUnlocalizedName("iceCreamItem");
+        setTextureName("noahpack:icecream");
     }
 }
