@@ -1,27 +1,36 @@
-[15:48:32] [main/INFO]: Setting user: ForgeDevName
-[15:48:32] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:48:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Noah Pack
-[15:48:40] [Sound Library Loader/INFO]: Sound engine started
-[15:48:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:48:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:48:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Noah Pack
-[15:48:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:48:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:48:42] [Sound Library Loader/INFO]: Sound engine started
-[15:49:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:49:10] [Server thread/INFO]: Generating keypair
-[15:49:11] [Server thread/INFO]: Preparing start region for level 0
-[15:49:12] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:49:12] [Server thread/INFO]: ForgeDevName[local:E:96b299ad] logged in with entity id 304 at (-241.21869591275896, 67.0, 182.6679278365678)
-[15:49:12] [Server thread/INFO]: ForgeDevName joined the game
-[15:50:31] [Server thread/INFO]: Saving and pausing game...
-[15:50:31] [Server thread/INFO]: Saving chunks for level 'Playground'/Overworld
-[15:50:31] [Server thread/INFO]: Saving chunks for level 'Playground'/Nether
-[15:50:31] [Server thread/INFO]: Saving chunks for level 'Playground'/The End
-[15:50:32] [Client thread/INFO]: Stopping!
-[15:50:32] [Server thread/INFO]: Stopping server
-[15:50:32] [Server thread/INFO]: Saving players
-[15:50:32] [Server thread/INFO]: Saving worlds
-[15:50:32] [Server thread/INFO]: Saving chunks for level 'Playground'/Overworld
-[15:50:32] [Server thread/INFO]: Saving chunks for level 'Playground'/Nether
-[15:50:32] [Server thread/INFO]: Saving chunks for level 'Playground'/The End
+[17:29:32] [main/INFO]: Setting user: ForgeDevName
+[17:29:33] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:29:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Noah Pack
+[17:29:41] [Sound Library Loader/INFO]: Sound engine started
+[17:29:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:29:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:29:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Noah Pack
+[17:29:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:29:42] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:29:42] [Sound Library Loader/INFO]: Sound engine started
+[17:29:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:29:48] [Server thread/INFO]: Generating keypair
+[17:29:48] [Server thread/INFO]: Preparing start region for level 0
+[17:29:49] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:29:49] [Server thread/INFO]: ForgeDevName[local:E:0a076d72] logged in with entity id 292 at (-208.1436383367599, 117.57594262399375, 246.75499676049137)
+[17:29:49] [Server thread/INFO]: ForgeDevName joined the game
+[17:30:00] [Server thread/INFO]: Saving and pausing game...
+[17:30:00] [Server thread/INFO]: Saving chunks for level 'Playground'/Overworld
+[17:30:00] [Server thread/INFO]: Saving chunks for level 'Playground'/Nether
+[17:30:00] [Server thread/INFO]: Saving chunks for level 'Playground'/The End
+[17:30:36] [Server thread/INFO]: Saving and pausing game...
+[17:30:36] [Server thread/INFO]: Saving chunks for level 'Playground'/Overworld
+[17:30:36] [Server thread/INFO]: Saving chunks for level 'Playground'/Nether
+[17:30:36] [Server thread/INFO]: Saving chunks for level 'Playground'/The End
+[17:31:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 126 ms
+[17:31:57] [Server thread/INFO]: Saving and pausing game...
+[17:31:57] [Server thread/INFO]: Saving chunks for level 'Playground'/Overworld
+[17:31:57] [Server thread/INFO]: Saving chunks for level 'Playground'/Nether
+[17:31:57] [Server thread/INFO]: Saving chunks for level 'Playground'/The End
+[17:31:59] [Client thread/INFO]: Stopping!
+[17:31:59] [Server thread/INFO]: Stopping server
+[17:31:59] [Server thread/INFO]: Saving players
+[17:31:59] [Server thread/INFO]: Saving worlds
+[17:31:59] [Server thread/INFO]: Saving chunks for level 'Playground'/Overworld
+[17:31:59] [Server thread/INFO]: Saving chunks for level 'Playground'/Nether
+[17:31:59] [Server thread/INFO]: Saving chunks for level 'Playground'/The End
