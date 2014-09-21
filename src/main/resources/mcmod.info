@@ -1,14 +1,14 @@
 [
 {
-  "modid": "noahpack",
-  "name": "Noah Pack",
-  "description": "Custom mods just for Noah! :D",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["MeekrabR6R"],
-  "credits": "Noah (for inspiring this)",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
